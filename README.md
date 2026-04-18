@@ -1,13 +1,23 @@
-# skylv-system-design
+# System Design
 
-system design - OpenClaw Skill
+> system design - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-system-design
 ```
 
-## Description
-An OpenClaw skill for system design.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-system-design
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
