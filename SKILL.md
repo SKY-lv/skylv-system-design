@@ -1,8 +1,8 @@
 ---
 name: system-design
 slug: skylv-system-design
-version: 2.0.0
-description: "系统设计架构师。提供 20+ 种经典架构模式（电商/社交/直播/支付），包含架构图、技术选型、扩展性设计。Triggers: system design, architecture design, scalable system, distributed system, 系统设计."
+version: 2.0.4
+description: System design architect. 20+ classic architecture patterns (e-commerce/social/live streaming/payments) with diagrams and scalability guides. Triggers: system design, architecture, scalable system.
 author: SKY-lv
 license: MIT
 tags: [system-design, architecture, distributed, scalable, backend]
